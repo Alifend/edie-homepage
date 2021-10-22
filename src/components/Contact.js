@@ -38,7 +38,7 @@ const ContactContainer = styled.div`
   align-items: center;
   @media (max-width: 900px) {
     flex-direction: column;
-    height: 500px;
+    height: 600px;
     align-items: flex-start;
     box-sizing: border-box;
     padding-left: 40px;
@@ -77,7 +77,7 @@ const LogosContainer = styled.div`
   gap: 10px;
 `;
 const Form = styled.div`
-  width: 30%;
+  width: 40%;
   height: 90%;
 `;
 const Title = styled.p`
